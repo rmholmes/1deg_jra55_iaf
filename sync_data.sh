@@ -3,7 +3,7 @@
 #PBS -l ncpus=1
 #PBS -l wd
 #PBS -l walltime=10:00:00,mem=12GB
-#PBS -l storage=gdata/hh5+gdata/ik11+gdata/cj50+scratch/v45+scratch/x77+scratch/g40+gdata/e14
+#PBS -l storage=gdata/hh5+gdata/ik11+gdata/cj50+scratch/v45+scratch/x77+scratch/g40+gdata/e14+scratch/e14+scratch/au06
 #PBS -N sync
 
 # Set SYNCDIR to the path you want your data copied to.
